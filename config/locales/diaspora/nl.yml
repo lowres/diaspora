@@ -24,7 +24,7 @@ nl:
            people_on_pod_are_aware_of: " people on pod are aware of"    # No idea how to translate this!
   layouts:
       application:
-          edit_profile: "verander profiel"
+          edit_profile: "wijzig profiel"
           logout: "uitloggen"
   shared:
       aspect_nav:
@@ -37,7 +37,7 @@ nl:
       publisher:
           share: "Delen"
       aspect_friends:
-          add_friends: "voeg vrienden toe"
+          add_friends: "Vrienden Toevoegen"
   albums:
       album:
           you: "jij"
@@ -45,7 +45,7 @@ nl:
           create: "maak"
           add_a_new_album: "Maak een nieuw album"
       show:
-          edit_album: "Verander Album"
+          edit_album: "Wijzig Album"
           albums: "albums"
           updated: "geupdated"
           by: "door"
@@ -74,14 +74,14 @@ nl:
       show:
           photos: "foto's"
       manage:
-          add_a_new_aspect: "Voeg een nieuw aspect toe"
-          add_a_new_friend:  "Voeg een nieuwe friend toe"
+          add_a_new_aspect: "Nieuw aspect toevoegen"
+          add_a_new_friend:  "Nieuwe vriend toevoegen"
           show: "Bekijk"
-          update_aspects: "Verander Aspects"
+          update_aspects: "Aspects wijzigen"
           requests: "Aanvragen"
           ignore_remove: "Negeer/Verwijderen"
       new_aspect:
-          add_a_new_aspect: "Voeg een nieuw aspect toe"
+          add_a_new_aspect: "Nieuw aspect toevoegen"
           create: "Aanmaken"
       create:
           success: "Klik op de plus aan de linkerkant om Diaspora te vertellen wie je nieuwe aspect kan zien."
@@ -89,7 +89,7 @@ nl:
       destroy:
           success: "%{name} is succesvol verwijderd."
       update:
-          success: "Je aspect, %{name}, is succelvol aangepast."
+          success: "Je aspect, %{name}, is succesvol aangepast."
       move_friends:
           failure: "Aanpassen van aspect is mislukt voor vriend %{real_name}."
           success: "Aspect succesvol aangepast."
@@ -101,18 +101,18 @@ nl:
           aspect_not_empty: "Aspect niet leeg"
   users:
       edit:
-          editing_profile: "Verander profiel"
+          editing_profile: "Wijzig profiel"
       profile:
           cancel: "Annuleren"
-          update_profile: "Verander Profiel"
+          update_profile: "Wijzig Profiel"
           home: "Home"
           diaspora_username: "DIASPORA USERNAME"
           info: "Info"
           picture: "Foto"
-          editing_profile: "Verander profiel"
+          editing_profile: "Wijzig profiel"
           albums: "Albums"
           you_dont_have_any_photos: "Je hebt nog geen foto's!  Ga naar de"
-          page_to_upload_some:  "pagina om er een aantal te uploaden."
+          page_to_upload_some:  "pagina om fotos te uploaden."
           or: "of"
   comments:
       comment:
@@ -124,28 +124,28 @@ nl:
           prev: "vorige"
           full_size: "volledige grootte"
           next: "volgende"
-          edit_photo: "Verander Foto"
-          delete_photo: "Verwijder Foto"
+          edit_photo: "Wijzig foto"
+          delete_photo: "Wijzig foto"
           are_you_sure: "Weet je het zeker?"
           comments: "reacties"
       edit:
-          editing: "Veranderen"
+          editing: "Wijzigen"
           are_you_sure: "Weet je het zeker?"
           delete_photo: "Verwijder Foto"
       photo:
           show_comments: "laat reacties zien"
-          posted_a_new_photo_to: "postte een nieuwe foto in"
+          posted_a_new_photo_to: "plaatste een nieuwe foto in"
       new:
           new_photo: "Nieuwe Foto"
           back_to_list: "Terug naar de lijst"
-          post_it: "post het!"
+          post_it: "Plaatsen!"
       create:
-          runtime_error: "Uploaden van foto mislukt. Weet je zeker dat je je gordel omhebt?"
+          runtime_error: "Uploaden van foto mislukt. Weet je zeker dat je je gordel om hebt?"
           integrity_error: "Uploaden van foto mislukt. Weet je zeker dat het een foto is?"
           type_error: "Uploaden van foto mislukt. Weet je zeker dat er een foto was toegevoegd?"
       update:
-          notice: "Foto succelvol veranderd."
-          error:  "Foto veranderen niet gelukt."
+          notice: "Foto succes vol veranderd."
+          error:  "Wijzigen van foto mislukt"
       destroy:
           notice: "Foto verwijderd."
   registrations:
@@ -170,10 +170,10 @@ nl:
           message: "Bericht"
           owner: "Eigenaar"
       helper:
-          no_message_to_display: "Geen bericht om te weergeven."
+          no_message_to_display: "Er zijn geen berichten."
   people:
       person:
-          add_friend: "voeg vriend to"
+          add_friend: "voeg vriend toe"
           pending_request: "openstaand verzoek"
       index:
           add_friend: "voeg vriend toe"
@@ -186,7 +186,7 @@ nl:
           new_person: "Nieuwe persoon"
           back_to_list: "Terug naar de lijst"
       show:
-          last_seen: "voor het laast gezien: %{how_long_ago}"
+          last_seen: "voor het laatst gezien: %{how_long_ago}"
           friends_since: "vrienden sinds: %{how_long_ago}"
           save: "opslaan"
           are_you_sure: "Weet je het zeker?"
