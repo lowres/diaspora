@@ -50,7 +50,7 @@ nl:
           updated: "geupdated"
           by: "door"
       edit:
-          editing: "Veranderen"
+          editing: "Wijzigen"
           updated: "geupdated"
           are_you_sure: "Weet je het zeker?"
           delete_album: "Verwijder Album"
